@@ -58,16 +58,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/eswarallu/library-management-system.git
 ---
-##  Project Structure
-library-management-system/
-│
-├── model/
-│   ├── Book.java
-│   ├── User.java
-│   └── Transaction.java
-│
-├── service/
-│   └── LibraryService.java
-│
-├── main/
-│   └── Main.java
+## 📁 Project Structure
+
+- **model/**: Contains core data classes like Book, User, and Transaction  
+- **service/**: Contains business logic (LibraryService.java) for managing operations  
+- **main/**: Entry point of the application (Main.java)  
+- **Book.java**: Represents book details and attributes  
+- **User.java**: Represents user information  
+- **Transaction.java**: Handles book issue and return records  
+- **LibraryService.java**: Implements library operations like add, issue, return, search  
+- **Main.java**: Runs the application and handles user interaction  
