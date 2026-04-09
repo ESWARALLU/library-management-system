@@ -63,10 +63,4 @@ A console-based Java application that automates library operations such as manag
 - **Main.java**: Runs the application and handles user interaction
 
 
----
-## ⚙️ Installation
 
-Clone the repository:
-```bash
-git clone https://github.com/eswarallu/library-management-system.git
----
