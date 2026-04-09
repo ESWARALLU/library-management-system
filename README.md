@@ -28,7 +28,7 @@ A console-based Java application that automates library operations such as manag
 
 ### 🔍 Search Functionality
 - Search books by title  
-- (Can be extended to author)  
+ 
 
 ---
 
