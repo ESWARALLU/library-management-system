@@ -57,3 +57,16 @@ A console-based Java application that automates library operations such as manag
 Clone the repository:
 ```bash
 git clone https://github.com/eswarallu/library-management-system.git
+## Project Structure
+library-management-system/
+│
+├── model/
+│   ├── Book.java
+│   ├── User.java
+│   └── Transaction.java
+│
+├── service/
+│   └── LibraryService.java
+│
+├── main/
+│   └── Main.java
