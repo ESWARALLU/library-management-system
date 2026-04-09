@@ -51,13 +51,6 @@ A console-based Java application that automates library operations such as manag
 - IDE (IntelliJ / Eclipse / VS Code)  
 
 ---
-
-## ⚙️ Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/eswarallu/library-management-system.git
----
 ## 📁 Project Structure
 
 - **model/**: Contains core data classes like Book, User, and Transaction  
@@ -67,4 +60,13 @@ git clone https://github.com/eswarallu/library-management-system.git
 - **User.java**: Represents user information  
 - **Transaction.java**: Handles book issue and return records  
 - **LibraryService.java**: Implements library operations like add, issue, return, search  
-- **Main.java**: Runs the application and handles user interaction  
+- **Main.java**: Runs the application and handles user interaction
+
+
+---
+## ⚙️ Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/eswarallu/library-management-system.git
+---
